@@ -6,7 +6,7 @@ This project demonstrates real-world backend concepts including authentication, 
 
 ---
 
-## 🚀 Features
+##  Features
 
 - User Authentication & Authorization (ADMIN / USER roles)
 - Employee CRUD Operations
@@ -19,7 +19,7 @@ This project demonstrates real-world backend concepts including authentication, 
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - Java 17
 - Spring Boot
@@ -32,7 +32,7 @@ This project demonstrates real-world backend concepts including authentication, 
 
 ---
 
-## 🔐 Roles
+##  Roles
 
 | Role  | Permissions |
 |------|------------|
@@ -41,7 +41,7 @@ This project demonstrates real-world backend concepts including authentication, 
 
 ---
 
-## ⚙️ Configuration
+##  Configuration
 
 Database credentials are loaded using environment variables:
 
